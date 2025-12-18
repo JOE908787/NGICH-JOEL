@@ -34,7 +34,7 @@ I’m a **Software Developer Intern** who enjoys building practical systems and 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGICH-JOEL\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOE908787\&show_icons=true\&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOE908787\&theme=tokyonight)
 
