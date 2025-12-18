@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:1f4037,100:99f2c8\&height=200\&text=Ngigi%20Joel\&fontColor=ffffff\&fontSize=36)
+`![header](https://capsule-render.vercel.app/api?type=waving\&color=0:1f4037,100:99f2c8\&height=200\&text=Ngigi%20Joel\&fontColor=ffffff\&fontSize=36)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer+Intern;Python+%7C+Flask+%7C+SQL;Building+real-world+projects\&center=true\&width=520)
 
 ---
 
-### 👋 Hi, I’m Ngich Joel
+### 👋 Hi, I’m Ngigi Joel
 
 I’m a **Software Developer Intern** who enjoys building practical systems and learning by doing. I’m especially interested in backend development, APIs, and working with databases. Always curious, always improving.
 
